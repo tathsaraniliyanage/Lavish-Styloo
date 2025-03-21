@@ -1,5 +1,12 @@
 # Lavish Styloo - MVC Architecture 🚀
 
+
+![Screenshot (476)](https://github.com/user-attachments/assets/e55463a9-c487-4721-b824-3934f7e4ede3)
+
+
+![Screenshot (457)](https://github.com/user-attachments/assets/025a90b2-a61c-4538-9627-bf2ecf9883b1)
+
+
 Lavish Styloo is a comprehensive saloon management system designed to streamline the operations of a saloon or spa. It provides an efficient way to manage bookings, payments, employees, customers, orders, treatments, and user authentication. Built using Java and MySQL, the system follows a MVC Architecture for better maintainability and scalability.
 
 
