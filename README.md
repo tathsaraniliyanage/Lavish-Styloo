@@ -1,5 +1,4 @@
-# Lavish Styloo - MVC Architecture 🚀
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Lavish+Styloo+-+MVC+Architecture;)](https://git.io/typing-svg)
 
 ![Screenshot (476)](https://github.com/user-attachments/assets/e55463a9-c487-4721-b824-3934f7e4ede3)
 
