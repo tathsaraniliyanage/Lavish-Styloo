@@ -92,6 +92,7 @@ Lavish Styloo is a comprehensive saloon management system designed to streamline
    3. IDE : Use IntelliJ IDEA or any Java-supported IDE.
 
 
+
 ### Steps to Run the Project 🔗
 
 1. Clone the Repository:
